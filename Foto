@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Hi there!</h1>
+    
+    <p>
+      <img src="https://cdn.glitch.com/e5aed99a-91c2-4274-9ce2-d842c7fb1153%2Ffile.jpeg?1551108420365" width="200">
+    </p>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body>
+</html>
+
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1026" height="770" id="canvas_background" fill="#56ffff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_4" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#fff" stroke="#000" stroke-width="1.5" d="m600.5,383.4375l-271.5,386.5625l156,-4c0.5,0.4375 233.5,-226.5625 189.5,-341.5625c-44,-115 -74,-41 -74,-41z" id="svg_1"/>
+  <path fill="#fff" stroke="#000" stroke-width="1.5" d="m548.5,458.4375l-65.5,-48.4375l-260,376l106,-16l219.5,-311.5625z" id="svg_2"/>
+  <path fill="#fff" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" d="m395.5,536.4375l-53.5,-39.4375l-210,300l104,-29l159.5,-231.5625z" id="svg_3"/>
+ </g>
+</svg>
